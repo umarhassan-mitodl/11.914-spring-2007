@@ -1,0 +1,57 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Social Science",
+      "Sociology",
+      "Community Development"
+    ]
+  ],
+  "legacy_uid": "a31ecf47-e7ac-c015-7c44-7901709bd77a",
+  "instructors": {
+    "content": [
+      "3b7bdc62-a6cb-7632-fb03-ea955faf0e45",
+      "cf413ef9-517f-095e-1b7b-198cc0e290fc",
+      "aaec4bd5-b27f-3078-3230-317a4fa1638f",
+      "e1522b9e-9f85-540e-cfa3-3f1fdf5e7a2d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d007564a-f27f-ffba-c8d7-c5d7677f024e",
+    "website": "11-914-planning-communication-spring-2007"
+  },
+  "course_title": "Planning Communication",
+  "course_description": "This three-week module, centered on a focal case, represents the second part of the Department's introduction to the challenges of reflection and action in professional planning practice. As such, it builds on the concepts and tools in 11.201 and 11.202 in the fall semester. Working in teams, students will deliver a 20-minute oral briefing, with an additional 10 minutes for questions and comments, in the last week of the class (as detailed on the assignment and posted course schedule). The teams will brief invited guests (\"briefees\") taking the roles of decision makers. DUSP faculty and fellow students may also be in attendance.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.914",
+  "course_image_thumbnail": {
+    "content": "c5d1cc12-6cfe-2a1d-12c1-5517260b5513",
+    "website": "11-914-planning-communication-spring-2007"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects",
+    "Presentation Assignments"
+  ],
+  "site_uid": "c2f9c4f9-5010-4f4c-9578-4f0fa4a6f8b1",
+  "site_short_id": "11.914-spring-2007",
+  "site_url_path": "courses/11-914-planning-communication-spring-2007",
+  "title": "Course Metadata"
+}
