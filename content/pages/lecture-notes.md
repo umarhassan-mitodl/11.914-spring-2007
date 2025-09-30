@@ -3,6 +3,8 @@ content_type: page
 description: This section provides and outline of class meetings, a guide on how to
   prepare and deliver an effective briefing, sample feedback memos on student briefings,
   and notes on a question and answer session with Susan Silberberg about the waterfront.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
