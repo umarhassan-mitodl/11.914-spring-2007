@@ -4,8 +4,6 @@ description: This resource contains a sample feedback memo on a student briefing
 file: /courses/11-914-planning-communication-spring-2007/4cebe1bea33537de36378566801ef480_sample2.pdf
 file_size: 18475
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

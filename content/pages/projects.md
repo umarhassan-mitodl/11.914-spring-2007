@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides final project presentations prepared by student
   teams for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

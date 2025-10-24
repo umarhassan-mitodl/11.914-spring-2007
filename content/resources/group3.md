@@ -4,8 +4,6 @@ description: This resource contains an example of a completed team project.
 file: /courses/11-914-planning-communication-spring-2007/8b4d73cea6c5c1f123b2381db1c42bf7_group3.pdf
 file_size: 166337
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
