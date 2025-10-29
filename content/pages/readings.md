@@ -10,15 +10,15 @@ uid: 8bc5a1c3-f9b3-f03e-6069-c44dcd92ad63
 
 The readings for the class, including online readings, are presented here.
 
-[About the BRA](http://www.bostonplans.org/about-us)
+{{% resource_link "f07ba698-bc74-463a-9847-90981945e707" "About the BRA" %}}
 
-[Charlestown Waterfront Coalition](http://cwcinfo.blogspot.in/)
+{{% resource_link "2a675f34-00b9-4014-b6fb-909b6c3a13cd" "Charlestown Waterfront Coalition" %}}
 
-[The Boston Harbor Association](http://www.tbha.org/)
+{{% resource_link "10bfcea9-14fc-45c4-823d-969592d393a1" "The Boston Harbor Association" %}}
 
-[The Friends of Fort Point Channel](https://www.friendsoffortpoint.org/mission)
+{{% resource_link "08b5df55-16bb-4105-b4d6-90c074e4fc9d" "The Friends of Fort Point Channel" %}}
 
-[Urban Waterfront Manifesto](http://www.waterfrontcenter.org/about/manifesto.html)
+{{% resource_link "3e7d4ce0-6b34-400a-9aff-28c47a4cf58b" "Urban Waterfront Manifesto" %}}
 
 Adams, James L. _Conceptual Blockbusting_. New York, NY: Perseus Books, 2001. ISBN: 9780738205373.
 
